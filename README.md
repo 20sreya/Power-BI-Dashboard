@@ -1,1 +1,1 @@
-# Power-BI-Dashboard
+Created interactive dashboards to track and analyze sales data. Used distinct types of customized visualizations (bar chart, clustered bar chart, pie chart, donut chart, slicers, area chart.)# Power-BI-Dashboard
